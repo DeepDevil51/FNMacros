@@ -1,5 +1,5 @@
 # FNMacros
-## RustSiris | A Simple Fornite Macros
+## FNMacros | A Simple Fornite Macros
 ### A C++ Fortnite Macros To Help You In
 ### Features:
 * Prefire
